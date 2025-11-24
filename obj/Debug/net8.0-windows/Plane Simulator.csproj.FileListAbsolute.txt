@@ -1,0 +1,37 @@
+C:\Users\Nicat\Desktop\C#\Plane Simulator\bin\Debug\net8.0-windows\Plane Simulator.exe
+C:\Users\Nicat\Desktop\C#\Plane Simulator\bin\Debug\net8.0-windows\Plane Simulator.deps.json
+C:\Users\Nicat\Desktop\C#\Plane Simulator\bin\Debug\net8.0-windows\Plane Simulator.runtimeconfig.json
+C:\Users\Nicat\Desktop\C#\Plane Simulator\bin\Debug\net8.0-windows\Plane Simulator.dll
+C:\Users\Nicat\Desktop\C#\Plane Simulator\bin\Debug\net8.0-windows\Plane Simulator.pdb
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane_Simulator.Form1.resources
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane_Simulator.Properties.Resources.resources
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.csproj.GenerateResource.cache
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.dll
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\refint\Plane Simulator.dll
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.pdb
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\Plane Simulator.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\C#\Plane Simulator\obj\Debug\net8.0-windows\ref\Plane Simulator.dll
+C:\Users\user\Source\Repos\task_14\bin\Debug\net8.0-windows\Plane Simulator.exe
+C:\Users\user\Source\Repos\task_14\bin\Debug\net8.0-windows\Plane Simulator.deps.json
+C:\Users\user\Source\Repos\task_14\bin\Debug\net8.0-windows\Plane Simulator.runtimeconfig.json
+C:\Users\user\Source\Repos\task_14\bin\Debug\net8.0-windows\Plane Simulator.dll
+C:\Users\user\Source\Repos\task_14\bin\Debug\net8.0-windows\Plane Simulator.pdb
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane_Simulator.Form1.resources
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane_Simulator.Properties.Resources.resources
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.AssemblyInfo.cs
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.sourcelink.json
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.dll
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\refint\Plane Simulator.dll
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.pdb
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane Simulator.genruntimeconfig.cache
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\ref\Plane Simulator.dll
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\task_14.Form1.resources
+C:\Users\user\Source\Repos\task_14\obj\Debug\net8.0-windows\Plane_Simulator.task_14.Properties.Resources.resources
